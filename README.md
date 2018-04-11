@@ -25,5 +25,5 @@ This will take secret.txt, and encrypt it into a new file secret.enc using the p
 
 Scenario: Given a private key and a cyphered message created "secret.enc" the receiver wants to read the message.
 ```
-cypher-net -d secret.enc secret.dec @private.key
+cypher-net -d secret.enc secret.dec -key @private.key
 ```
