@@ -1,6 +1,6 @@
 ﻿# cypher-net
 
-A simple example of using symmetric and assymetric encryption in .NET
+A simple example of using symmetric and asymmetric encryption in .NET
 
 ## Usage
 
